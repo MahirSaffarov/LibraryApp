@@ -19,7 +19,8 @@ namespace RepositoryLayer.Repositories
 
         public void Delete(Library entity)
         {
-            throw new NotImplementedException();
+            if(entity is null) throw new ArgumentNullException();
+            AppDbContext<Library>.datas.Remove(entity);
         }
 
         public Library Get(Predicate<Library> predicate)

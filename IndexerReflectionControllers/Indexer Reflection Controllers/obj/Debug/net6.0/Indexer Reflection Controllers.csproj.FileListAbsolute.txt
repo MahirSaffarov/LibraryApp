@@ -1,0 +1,15 @@
+C:\Users\mahir\source\repos\Indexer Reflection Controllers\Indexer Reflection Controllers\bin\Debug\net6.0\Indexer Reflection Controllers.exe
+C:\Users\mahir\source\repos\Indexer Reflection Controllers\Indexer Reflection Controllers\bin\Debug\net6.0\Indexer Reflection Controllers.deps.json
+C:\Users\mahir\source\repos\Indexer Reflection Controllers\Indexer Reflection Controllers\bin\Debug\net6.0\Indexer Reflection Controllers.runtimeconfig.json
+C:\Users\mahir\source\repos\Indexer Reflection Controllers\Indexer Reflection Controllers\bin\Debug\net6.0\Indexer Reflection Controllers.dll
+C:\Users\mahir\source\repos\Indexer Reflection Controllers\Indexer Reflection Controllers\bin\Debug\net6.0\Indexer Reflection Controllers.pdb
+C:\Users\mahir\source\repos\Indexer Reflection Controllers\Indexer Reflection Controllers\obj\Debug\net6.0\Indexer Reflection Controllers.csproj.AssemblyReference.cache
+C:\Users\mahir\source\repos\Indexer Reflection Controllers\Indexer Reflection Controllers\obj\Debug\net6.0\Indexer Reflection Controllers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahir\source\repos\Indexer Reflection Controllers\Indexer Reflection Controllers\obj\Debug\net6.0\Indexer Reflection Controllers.AssemblyInfoInputs.cache
+C:\Users\mahir\source\repos\Indexer Reflection Controllers\Indexer Reflection Controllers\obj\Debug\net6.0\Indexer Reflection Controllers.AssemblyInfo.cs
+C:\Users\mahir\source\repos\Indexer Reflection Controllers\Indexer Reflection Controllers\obj\Debug\net6.0\Indexer Reflection Controllers.csproj.CoreCompileInputs.cache
+C:\Users\mahir\source\repos\Indexer Reflection Controllers\Indexer Reflection Controllers\obj\Debug\net6.0\Indexer Reflection Controllers.dll
+C:\Users\mahir\source\repos\Indexer Reflection Controllers\Indexer Reflection Controllers\obj\Debug\net6.0\refint\Indexer Reflection Controllers.dll
+C:\Users\mahir\source\repos\Indexer Reflection Controllers\Indexer Reflection Controllers\obj\Debug\net6.0\Indexer Reflection Controllers.pdb
+C:\Users\mahir\source\repos\Indexer Reflection Controllers\Indexer Reflection Controllers\obj\Debug\net6.0\Indexer Reflection Controllers.genruntimeconfig.cache
+C:\Users\mahir\source\repos\Indexer Reflection Controllers\Indexer Reflection Controllers\obj\Debug\net6.0\ref\Indexer Reflection Controllers.dll

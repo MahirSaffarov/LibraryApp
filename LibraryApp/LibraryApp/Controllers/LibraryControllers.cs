@@ -87,5 +87,37 @@ namespace LibraryApp.Controllers
                 ConsoleColor.Red.WriteConsole(ex.Message);
             }
         }
+
+        public void Delete()
+        {
+            try
+            {
+                ConsoleColor.Cyan.WriteConsole("Add library id: ");
+
+                string idStr = Console.ReadLine();
+
+                int id;
+
+                bool isParseId = int.TryParse(idStr, out id);
+
+                if (isParseId)
+                {
+                    _libraryService.Delete(id);
+                
+                    
+                    ConsoleColor.DarkGreen.WriteConsole("Success");
+
+                }
+                else
+                {
+                    ConsoleColor.Red.WriteConsole("Please add correct correct id : ");
+                    
+                }
+            }
+            catch (Exception ex)
+            {
+                ConsoleColor.Red.WriteConsole(ex.Message);
+            }
+        }
     }
 }

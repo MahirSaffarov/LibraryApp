@@ -1,0 +1,14 @@
+C:\Users\mahir\source\repos\Implicit, Explicit, Generic\Implicit, Explicit, Generic\bin\Debug\netcoreapp3.1\Implicit, Explicit, Generic.exe
+C:\Users\mahir\source\repos\Implicit, Explicit, Generic\Implicit, Explicit, Generic\bin\Debug\netcoreapp3.1\Implicit, Explicit, Generic.deps.json
+C:\Users\mahir\source\repos\Implicit, Explicit, Generic\Implicit, Explicit, Generic\bin\Debug\netcoreapp3.1\Implicit, Explicit, Generic.runtimeconfig.json
+C:\Users\mahir\source\repos\Implicit, Explicit, Generic\Implicit, Explicit, Generic\bin\Debug\netcoreapp3.1\Implicit, Explicit, Generic.runtimeconfig.dev.json
+C:\Users\mahir\source\repos\Implicit, Explicit, Generic\Implicit, Explicit, Generic\bin\Debug\netcoreapp3.1\Implicit, Explicit, Generic.dll
+C:\Users\mahir\source\repos\Implicit, Explicit, Generic\Implicit, Explicit, Generic\bin\Debug\netcoreapp3.1\Implicit, Explicit, Generic.pdb
+C:\Users\mahir\source\repos\Implicit, Explicit, Generic\Implicit, Explicit, Generic\obj\Debug\netcoreapp3.1\Implicit, Explicit, Generic.csproj.AssemblyReference.cache
+C:\Users\mahir\source\repos\Implicit, Explicit, Generic\Implicit, Explicit, Generic\obj\Debug\netcoreapp3.1\Implicit, Explicit, Generic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahir\source\repos\Implicit, Explicit, Generic\Implicit, Explicit, Generic\obj\Debug\netcoreapp3.1\Implicit, Explicit, Generic.AssemblyInfoInputs.cache
+C:\Users\mahir\source\repos\Implicit, Explicit, Generic\Implicit, Explicit, Generic\obj\Debug\netcoreapp3.1\Implicit, Explicit, Generic.AssemblyInfo.cs
+C:\Users\mahir\source\repos\Implicit, Explicit, Generic\Implicit, Explicit, Generic\obj\Debug\netcoreapp3.1\Implicit, Explicit, Generic.csproj.CoreCompileInputs.cache
+C:\Users\mahir\source\repos\Implicit, Explicit, Generic\Implicit, Explicit, Generic\obj\Debug\netcoreapp3.1\Implicit, Explicit, Generic.dll
+C:\Users\mahir\source\repos\Implicit, Explicit, Generic\Implicit, Explicit, Generic\obj\Debug\netcoreapp3.1\Implicit, Explicit, Generic.pdb
+C:\Users\mahir\source\repos\Implicit, Explicit, Generic\Implicit, Explicit, Generic\obj\Debug\netcoreapp3.1\Implicit, Explicit, Generic.genruntimeconfig.cache

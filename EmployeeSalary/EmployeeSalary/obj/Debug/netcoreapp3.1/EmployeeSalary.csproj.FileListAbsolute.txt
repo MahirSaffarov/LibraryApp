@@ -1,0 +1,14 @@
+C:\Users\mahir\source\repos\EmployeeSalary\EmployeeSalary\bin\Debug\netcoreapp3.1\EmployeeSalary.exe
+C:\Users\mahir\source\repos\EmployeeSalary\EmployeeSalary\bin\Debug\netcoreapp3.1\EmployeeSalary.deps.json
+C:\Users\mahir\source\repos\EmployeeSalary\EmployeeSalary\bin\Debug\netcoreapp3.1\EmployeeSalary.runtimeconfig.json
+C:\Users\mahir\source\repos\EmployeeSalary\EmployeeSalary\bin\Debug\netcoreapp3.1\EmployeeSalary.runtimeconfig.dev.json
+C:\Users\mahir\source\repos\EmployeeSalary\EmployeeSalary\bin\Debug\netcoreapp3.1\EmployeeSalary.dll
+C:\Users\mahir\source\repos\EmployeeSalary\EmployeeSalary\bin\Debug\netcoreapp3.1\EmployeeSalary.pdb
+C:\Users\mahir\source\repos\EmployeeSalary\EmployeeSalary\obj\Debug\netcoreapp3.1\EmployeeSalary.csproj.AssemblyReference.cache
+C:\Users\mahir\source\repos\EmployeeSalary\EmployeeSalary\obj\Debug\netcoreapp3.1\EmployeeSalary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahir\source\repos\EmployeeSalary\EmployeeSalary\obj\Debug\netcoreapp3.1\EmployeeSalary.AssemblyInfoInputs.cache
+C:\Users\mahir\source\repos\EmployeeSalary\EmployeeSalary\obj\Debug\netcoreapp3.1\EmployeeSalary.AssemblyInfo.cs
+C:\Users\mahir\source\repos\EmployeeSalary\EmployeeSalary\obj\Debug\netcoreapp3.1\EmployeeSalary.csproj.CoreCompileInputs.cache
+C:\Users\mahir\source\repos\EmployeeSalary\EmployeeSalary\obj\Debug\netcoreapp3.1\EmployeeSalary.dll
+C:\Users\mahir\source\repos\EmployeeSalary\EmployeeSalary\obj\Debug\netcoreapp3.1\EmployeeSalary.pdb
+C:\Users\mahir\source\repos\EmployeeSalary\EmployeeSalary\obj\Debug\netcoreapp3.1\EmployeeSalary.genruntimeconfig.cache

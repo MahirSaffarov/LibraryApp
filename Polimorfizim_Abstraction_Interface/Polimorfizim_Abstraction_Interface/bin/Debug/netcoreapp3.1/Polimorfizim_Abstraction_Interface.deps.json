@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Polimorfizim_Abstraction_Interface/1.0.0": {
+        "dependencies": {
+          "Math": "1.0.0",
+          "Service": "1.0.0"
+        },
+        "runtime": {
+          "Polimorfizim_Abstraction_Interface.dll": {}
+        }
+      },
+      "Math/1.0.0": {
+        "runtime": {
+          "Math.dll": {}
+        }
+      },
+      "Service/1.0.0": {
+        "runtime": {
+          "Service.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Polimorfizim_Abstraction_Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Math/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

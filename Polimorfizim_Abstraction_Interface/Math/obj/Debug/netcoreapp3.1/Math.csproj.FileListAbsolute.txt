@@ -1,0 +1,10 @@
+C:\Users\mahir\source\repos\Polimorfizim_Abstraction_Interface\Math\bin\Debug\netcoreapp3.1\Math.deps.json
+C:\Users\mahir\source\repos\Polimorfizim_Abstraction_Interface\Math\bin\Debug\netcoreapp3.1\Math.dll
+C:\Users\mahir\source\repos\Polimorfizim_Abstraction_Interface\Math\bin\Debug\netcoreapp3.1\Math.pdb
+C:\Users\mahir\source\repos\Polimorfizim_Abstraction_Interface\Math\obj\Debug\netcoreapp3.1\Math.csproj.AssemblyReference.cache
+C:\Users\mahir\source\repos\Polimorfizim_Abstraction_Interface\Math\obj\Debug\netcoreapp3.1\Math.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahir\source\repos\Polimorfizim_Abstraction_Interface\Math\obj\Debug\netcoreapp3.1\Math.AssemblyInfoInputs.cache
+C:\Users\mahir\source\repos\Polimorfizim_Abstraction_Interface\Math\obj\Debug\netcoreapp3.1\Math.AssemblyInfo.cs
+C:\Users\mahir\source\repos\Polimorfizim_Abstraction_Interface\Math\obj\Debug\netcoreapp3.1\Math.csproj.CoreCompileInputs.cache
+C:\Users\mahir\source\repos\Polimorfizim_Abstraction_Interface\Math\obj\Debug\netcoreapp3.1\Math.dll
+C:\Users\mahir\source\repos\Polimorfizim_Abstraction_Interface\Math\obj\Debug\netcoreapp3.1\Math.pdb

@@ -25,9 +25,9 @@ namespace ServiceLayer.Services
             return library;
         }
 
-        public void Delete(int id)
+        public void Delete(Library library)
         {
-            throw new NotImplementedException();
+            var result = GetById(library.Id);
         }
 
         public List<Library> GetAll()

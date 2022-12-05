@@ -1,0 +1,14 @@
+C:\Users\mahir\source\repos\kelvin  and celsius\kelvin  and celsius\bin\Debug\netcoreapp3.1\kelvin  and celsius.exe
+C:\Users\mahir\source\repos\kelvin  and celsius\kelvin  and celsius\bin\Debug\netcoreapp3.1\kelvin  and celsius.deps.json
+C:\Users\mahir\source\repos\kelvin  and celsius\kelvin  and celsius\bin\Debug\netcoreapp3.1\kelvin  and celsius.runtimeconfig.json
+C:\Users\mahir\source\repos\kelvin  and celsius\kelvin  and celsius\bin\Debug\netcoreapp3.1\kelvin  and celsius.runtimeconfig.dev.json
+C:\Users\mahir\source\repos\kelvin  and celsius\kelvin  and celsius\bin\Debug\netcoreapp3.1\kelvin  and celsius.dll
+C:\Users\mahir\source\repos\kelvin  and celsius\kelvin  and celsius\bin\Debug\netcoreapp3.1\kelvin  and celsius.pdb
+C:\Users\mahir\source\repos\kelvin  and celsius\kelvin  and celsius\obj\Debug\netcoreapp3.1\kelvin  and celsius.csproj.AssemblyReference.cache
+C:\Users\mahir\source\repos\kelvin  and celsius\kelvin  and celsius\obj\Debug\netcoreapp3.1\kelvin  and celsius.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahir\source\repos\kelvin  and celsius\kelvin  and celsius\obj\Debug\netcoreapp3.1\kelvin  and celsius.AssemblyInfoInputs.cache
+C:\Users\mahir\source\repos\kelvin  and celsius\kelvin  and celsius\obj\Debug\netcoreapp3.1\kelvin  and celsius.AssemblyInfo.cs
+C:\Users\mahir\source\repos\kelvin  and celsius\kelvin  and celsius\obj\Debug\netcoreapp3.1\kelvin  and celsius.csproj.CoreCompileInputs.cache
+C:\Users\mahir\source\repos\kelvin  and celsius\kelvin  and celsius\obj\Debug\netcoreapp3.1\kelvin  and celsius.dll
+C:\Users\mahir\source\repos\kelvin  and celsius\kelvin  and celsius\obj\Debug\netcoreapp3.1\kelvin  and celsius.pdb
+C:\Users\mahir\source\repos\kelvin  and celsius\kelvin  and celsius\obj\Debug\netcoreapp3.1\kelvin  and celsius.genruntimeconfig.cache

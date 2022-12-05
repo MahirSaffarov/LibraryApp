@@ -1,0 +1,17 @@
+C:\Users\mahir\source\repos\HomeWork_Calculator\HomeWork_Calculator\bin\Debug\netcoreapp3.1\HomeWork_Calculator.exe
+C:\Users\mahir\source\repos\HomeWork_Calculator\HomeWork_Calculator\bin\Debug\netcoreapp3.1\HomeWork_Calculator.deps.json
+C:\Users\mahir\source\repos\HomeWork_Calculator\HomeWork_Calculator\bin\Debug\netcoreapp3.1\HomeWork_Calculator.runtimeconfig.json
+C:\Users\mahir\source\repos\HomeWork_Calculator\HomeWork_Calculator\bin\Debug\netcoreapp3.1\HomeWork_Calculator.runtimeconfig.dev.json
+C:\Users\mahir\source\repos\HomeWork_Calculator\HomeWork_Calculator\bin\Debug\netcoreapp3.1\HomeWork_Calculator.dll
+C:\Users\mahir\source\repos\HomeWork_Calculator\HomeWork_Calculator\bin\Debug\netcoreapp3.1\HomeWork_Calculator.pdb
+C:\Users\mahir\source\repos\HomeWork_Calculator\HomeWork_Calculator\obj\Debug\netcoreapp3.1\HomeWork_Calculator.csproj.AssemblyReference.cache
+C:\Users\mahir\source\repos\HomeWork_Calculator\HomeWork_Calculator\obj\Debug\netcoreapp3.1\HomeWork_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahir\source\repos\HomeWork_Calculator\HomeWork_Calculator\obj\Debug\netcoreapp3.1\HomeWork_Calculator.AssemblyInfoInputs.cache
+C:\Users\mahir\source\repos\HomeWork_Calculator\HomeWork_Calculator\obj\Debug\netcoreapp3.1\HomeWork_Calculator.AssemblyInfo.cs
+C:\Users\mahir\source\repos\HomeWork_Calculator\HomeWork_Calculator\obj\Debug\netcoreapp3.1\HomeWork_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\mahir\source\repos\HomeWork_Calculator\HomeWork_Calculator\obj\Debug\netcoreapp3.1\HomeWork_Calculator.dll
+C:\Users\mahir\source\repos\HomeWork_Calculator\HomeWork_Calculator\obj\Debug\netcoreapp3.1\HomeWork_Calculator.pdb
+C:\Users\mahir\source\repos\HomeWork_Calculator\HomeWork_Calculator\obj\Debug\netcoreapp3.1\HomeWork_Calculator.genruntimeconfig.cache
+C:\Users\mahir\source\repos\HomeWork_Calculator\HomeWork_Calculator\bin\Debug\netcoreapp3.1\Service.dll
+C:\Users\mahir\source\repos\HomeWork_Calculator\HomeWork_Calculator\bin\Debug\netcoreapp3.1\Service.pdb
+C:\Users\mahir\source\repos\HomeWork_Calculator\HomeWork_Calculator\obj\Debug\netcoreapp3.1\HomeWork_Calculator.csproj.CopyComplete

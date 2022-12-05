@@ -1,0 +1,14 @@
+C:\Users\mahir\source\repos\BookAuthor\BookAuthor\bin\Debug\netcoreapp3.1\BookAuthor.exe
+C:\Users\mahir\source\repos\BookAuthor\BookAuthor\bin\Debug\netcoreapp3.1\BookAuthor.deps.json
+C:\Users\mahir\source\repos\BookAuthor\BookAuthor\bin\Debug\netcoreapp3.1\BookAuthor.runtimeconfig.json
+C:\Users\mahir\source\repos\BookAuthor\BookAuthor\bin\Debug\netcoreapp3.1\BookAuthor.runtimeconfig.dev.json
+C:\Users\mahir\source\repos\BookAuthor\BookAuthor\bin\Debug\netcoreapp3.1\BookAuthor.dll
+C:\Users\mahir\source\repos\BookAuthor\BookAuthor\bin\Debug\netcoreapp3.1\BookAuthor.pdb
+C:\Users\mahir\source\repos\BookAuthor\BookAuthor\obj\Debug\netcoreapp3.1\BookAuthor.csproj.AssemblyReference.cache
+C:\Users\mahir\source\repos\BookAuthor\BookAuthor\obj\Debug\netcoreapp3.1\BookAuthor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahir\source\repos\BookAuthor\BookAuthor\obj\Debug\netcoreapp3.1\BookAuthor.AssemblyInfoInputs.cache
+C:\Users\mahir\source\repos\BookAuthor\BookAuthor\obj\Debug\netcoreapp3.1\BookAuthor.AssemblyInfo.cs
+C:\Users\mahir\source\repos\BookAuthor\BookAuthor\obj\Debug\netcoreapp3.1\BookAuthor.csproj.CoreCompileInputs.cache
+C:\Users\mahir\source\repos\BookAuthor\BookAuthor\obj\Debug\netcoreapp3.1\BookAuthor.dll
+C:\Users\mahir\source\repos\BookAuthor\BookAuthor\obj\Debug\netcoreapp3.1\BookAuthor.pdb
+C:\Users\mahir\source\repos\BookAuthor\BookAuthor\obj\Debug\netcoreapp3.1\BookAuthor.genruntimeconfig.cache

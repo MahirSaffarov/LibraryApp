@@ -1,0 +1,14 @@
+C:\Users\mahir\source\repos\PersonSalary\PersonSalary\bin\Debug\netcoreapp3.1\PersonSalary.exe
+C:\Users\mahir\source\repos\PersonSalary\PersonSalary\bin\Debug\netcoreapp3.1\PersonSalary.deps.json
+C:\Users\mahir\source\repos\PersonSalary\PersonSalary\bin\Debug\netcoreapp3.1\PersonSalary.runtimeconfig.json
+C:\Users\mahir\source\repos\PersonSalary\PersonSalary\bin\Debug\netcoreapp3.1\PersonSalary.runtimeconfig.dev.json
+C:\Users\mahir\source\repos\PersonSalary\PersonSalary\bin\Debug\netcoreapp3.1\PersonSalary.dll
+C:\Users\mahir\source\repos\PersonSalary\PersonSalary\bin\Debug\netcoreapp3.1\PersonSalary.pdb
+C:\Users\mahir\source\repos\PersonSalary\PersonSalary\obj\Debug\netcoreapp3.1\PersonSalary.csproj.AssemblyReference.cache
+C:\Users\mahir\source\repos\PersonSalary\PersonSalary\obj\Debug\netcoreapp3.1\PersonSalary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahir\source\repos\PersonSalary\PersonSalary\obj\Debug\netcoreapp3.1\PersonSalary.AssemblyInfoInputs.cache
+C:\Users\mahir\source\repos\PersonSalary\PersonSalary\obj\Debug\netcoreapp3.1\PersonSalary.AssemblyInfo.cs
+C:\Users\mahir\source\repos\PersonSalary\PersonSalary\obj\Debug\netcoreapp3.1\PersonSalary.csproj.CoreCompileInputs.cache
+C:\Users\mahir\source\repos\PersonSalary\PersonSalary\obj\Debug\netcoreapp3.1\PersonSalary.dll
+C:\Users\mahir\source\repos\PersonSalary\PersonSalary\obj\Debug\netcoreapp3.1\PersonSalary.pdb
+C:\Users\mahir\source\repos\PersonSalary\PersonSalary\obj\Debug\netcoreapp3.1\PersonSalary.genruntimeconfig.cache
